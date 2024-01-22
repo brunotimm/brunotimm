@@ -1,7 +1,7 @@
 ### Hi there, your're welcome! 👋
 
-#### Say Hi
-https://github.com/brunotimm/
+ #### Say Hi
+ ---
 
 - :mortar_board:  Undergraduate in the final year of Economics at the Federal University of São Carlos. 
 - :office: I’m currently working on as RA at FGV EESP CLEAR
