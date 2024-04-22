@@ -1,6 +1,6 @@
 ### Hi there, your're welcome! 👋
 
- #### Say Hi
+ #### Hello, guys
  ---
 
 - :mortar_board:  Undergraduate in the final year of Economics at the Federal University of São Carlos. 
