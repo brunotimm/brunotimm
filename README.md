@@ -1,6 +1,8 @@
 ### Hi there, your're welcome! 👋
 
- #### Hello, guys
+![R](https://img.shields.io/badge/R-276DC3?logo=r&logoColor=white)
+![Stata](https://img.shields.io/badge/Stata-1a7dbb)
+
  ---
 
 - :mortar_board:  Undergraduate in the final year of Economics at the Federal University of São Carlos (UFSCar). 
